@@ -1,0 +1,7 @@
+# This file contains requirements to be installed i order to run the projects
+selenium==4.11.2
+webdrivermanager==0.10.0
+pytest-html==3.2.0
+pytest==7.4.0
+pytest-xdist==3.3.1
+openpyxl==3.1.2

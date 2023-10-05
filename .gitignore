@@ -1,0 +1,13 @@
+# Ignore compiled output and temporary files
+*.o
+*.out
+*.log
+/tmp/
+
+# Ignore specific files
+sensitive-file.txt
+credentials.json
+
+# Ignore directories
+node_modules/
+dist/
